@@ -6,7 +6,7 @@ pages = {
         # st.Page("page2.py", title="My Designs"),
     ],
     "Analysis": [
-        st.Page("page2.py", title="Learn about us"),
+        st.Page("page2.py", title="Similarity Search"),
         # st.Page("trial.py", title="Try it out"),
     ],
 }
